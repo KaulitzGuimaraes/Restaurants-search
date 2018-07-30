@@ -47,6 +47,8 @@ for i in range(0,CLUSTER) :
 
 n_row =0
 
+
+
 for i in km.labels_ :
 
     ds_k[int(i)].append(ds1[n_row])
@@ -56,15 +58,9 @@ i =0
 
 
 for dt_st in ds_k :
-  
     dt = pd.DataFrame(ds_k[dt_st])
-    dt.to_csv('cluster_'+str(i)+'.csv')
+    dt.to_csv('cluster_'+str(dt_st)+'.csv')
 
-
-
-for l in ds_k :
-    print(ds_k[l])
-    print('---------------------------------')
 
 '''
    

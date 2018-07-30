@@ -1,0 +1,150 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,adult,,pizza,fit,,italian,,,,,country,,live
+1,,adult,,,fit,japanese,,,hamburger,,pop,country,,live
+2,,adult,,,,japanese,,,hamburger,,,country,,live
+3,,adult,,pizza,fit,,,,hamburger,rock,,country,no music,
+4,,adult,,pizza,fit,,italian,,,,pop,,,
+5,,adult,,,,,,,hamburger,,,country,,live
+6,,adult,,,,,italian,,hamburger,rock,,country,no music,live
+7,,adult,,,fit,japanese,,,,,,,no music,
+8,,adult,,pizza,,,,,hamburger,rock,pop,,no music,live
+9,,adult,,pizza,fit,,italian,,,,pop,country,,
+10,,adult,,,fit,,,,,rock,pop,country,,
+11,,adult,,,,,italian,,hamburger,rock,,,no music,live
+12,,adult,,pizza,,,italian,,,rock,pop,,no music,
+13,,adult,,,,,italian,,hamburger,rock,pop,country,no music,live
+14,,adult,,pizza,fit,,,,hamburger,,,country,,
+15,,adult,,pizza,,,italian,,hamburger,rock,,,no music,
+16,,adult,,,,japanese,,,,,pop,country,,
+17,,adult,,pizza,,,italian,,hamburger,rock,,,,
+18,,adult,,,,,italian,,,,,,no music,live
+19,,adult,,pizza,,japanese,,,,rock,pop,country,no music,
+20,,adult,,,,,italian,,,rock,,country,no music,live
+21,,adult,,pizza,,,,,,,pop,country,,
+22,,adult,,pizza,fit,,,,,,pop,,,live
+23,,adult,,pizza,fit,japanese,,,,rock,,country,no music,
+24,,adult,,,fit,japanese,,,hamburger,rock,pop,,,
+25,,adult,,,,japanese,,,,,pop,country,,live
+26,,adult,,pizza,fit,,italian,,,,,,,live
+27,,adult,,,,japanese,,,hamburger,rock,pop,country,,live
+28,,adult,,,fit,,italian,,hamburger,,pop,,no music,live
+29,,adult,,,,japanese,italian,,,,pop,,no music,
+30,,adult,,,fit,,,,hamburger,rock,,country,,live
+31,,adult,,,,japanese,,,hamburger,,,country,,live
+32,,adult,,pizza,fit,japanese,,,,,pop,country,,
+33,,adult,,pizza,fit,,,,,,pop,country,no music,
+34,,adult,,,,,italian,,,rock,,,,
+35,,adult,,pizza,fit,,,,hamburger,rock,,country,,live
+36,,adult,,,fit,,italian,,hamburger,rock,pop,,,live
+37,,adult,,,,japanese,,,,,pop,country,,live
+38,,adult,,pizza,fit,japanese,,,hamburger,rock,pop,,no music,live
+39,,adult,,pizza,fit,japanese,,,,,,country,no music,live
+40,,adult,,,fit,japanese,,,hamburger,rock,pop,,no music,
+41,,adult,,,fit,japanese,italian,,,,pop,country,no music,
+42,,adult,,,,,italian,,hamburger,rock,pop,,no music,live
+43,,adult,,,fit,,,,,rock,,country,,
+44,,adult,,pizza,,japanese,,,hamburger,,pop,,no music,
+45,,adult,,pizza,fit,,,,hamburger,,,country,no music,live
+46,,adult,,,,japanese,italian,,,rock,,,no music,live
+47,,adult,,,,,italian,,,,,country,,live
+48,,adult,,,,,italian,,,rock,pop,,no music,live
+49,,adult,,pizza,,,italian,,hamburger,,pop,,no music,live
+50,,adult,,,fit,,italian,,,rock,,,,
+51,,adult,,pizza,fit,,,,,rock,,country,,live
+52,,adult,,pizza,,,italian,,hamburger,rock,,country,no music,live
+53,,adult,,,,,,,,,,country,no music,live
+54,,adult,,pizza,fit,japanese,italian,,hamburger,,pop,,no music,live
+55,,adult,,,,japanese,,,,rock,,,no music,
+56,,adult,,pizza,,,italian,,,,pop,country,no music,live
+57,,adult,,,,,,,,,,,no music,live
+58,,adult,,pizza,,japanese,italian,,hamburger,,,,no music,live
+59,,adult,,,fit,japanese,italian,,hamburger,,pop,,no music,live
+60,,adult,,pizza,,,,,,,,,,
+61,,adult,,pizza,,japanese,italian,,hamburger,rock,,country,no music,live
+62,,adult,,,,,,,,,,,no music,live
+63,,adult,,pizza,fit,japanese,,,,rock,pop,country,no music,
+64,,adult,,,fit,japanese,,,,,,country,no music,
+65,,adult,,,fit,japanese,,,hamburger,,,,,live
+66,,adult,,,,japanese,,,,,pop,country,,
+67,,adult,,pizza,,,,,hamburger,rock,,,,live
+68,,adult,,,,japanese,,,hamburger,,pop,,no music,
+69,,adult,,pizza,fit,japanese,,,hamburger,,,country,no music,live
+70,,adult,,pizza,,,italian,,hamburger,rock,,country,no music,
+71,,adult,,,,japanese,,,hamburger,rock,,country,no music,live
+72,,adult,,,,,,,hamburger,,,country,no music,live
+73,,adult,,pizza,fit,,,,,,pop,country,no music,
+74,,adult,,pizza,fit,,italian,,hamburger,,,country,,live
+75,,adult,,,fit,,italian,,hamburger,rock,,,no music,
+76,,adult,,,fit,,italian,,hamburger,rock,,,no music,live
+77,,adult,,,,,italian,,hamburger,rock,,country,,live
+78,,adult,,pizza,,japanese,italian,,hamburger,,,country,,live
+79,,adult,,,,,italian,,,,,,,
+80,,adult,,,,,italian,,hamburger,,,,,live
+81,,adult,,pizza,,,italian,,,rock,,,no music,
+82,,adult,,pizza,,,,,hamburger,,,,,live
+83,,adult,,pizza,,japanese,italian,,hamburger,rock,pop,,no music,live
+84,,adult,,pizza,fit,,,,hamburger,,pop,,no music,
+85,,adult,,,fit,,,,,,,,,
+86,,adult,,,,japanese,italian,,,,pop,country,no music,
+87,,adult,,,fit,,,,,,pop,,,
+88,,adult,,pizza,fit,japanese,,,hamburger,rock,,,,live
+89,,adult,,,fit,,,,hamburger,,,,no music,
+90,,adult,,pizza,,japanese,,,hamburger,rock,pop,,,
+91,,adult,,,fit,,italian,,,,,country,,live
+92,,adult,,,fit,japanese,italian,,hamburger,,pop,,,
+93,,adult,,pizza,fit,japanese,italian,,hamburger,,,country,no music,
+94,,adult,,,,japanese,,,,rock,pop,country,,
+95,,adult,,,,,italian,,hamburger,,,country,,live
+96,,adult,,,fit,,italian,,,,,country,no music,live
+97,,adult,,pizza,,,italian,,,rock,,,no music,
+98,,adult,,pizza,fit,japanese,italian,,,rock,pop,,no music,live
+99,,adult,,pizza,,,,,hamburger,rock,pop,country,,
+100,,adult,,pizza,fit,japanese,,,,rock,pop,country,no music,live
+101,,adult,,,fit,japanese,italian,,hamburger,,,country,no music,live
+102,,adult,,pizza,,japanese,,,hamburger,,pop,country,,
+103,,adult,,pizza,fit,japanese,,,,,pop,,no music,
+104,,adult,,pizza,fit,japanese,,,,,,country,no music,
+105,,adult,,pizza,fit,,,,,,pop,,no music,
+106,,adult,,,,japanese,,,hamburger,rock,,,no music,
+107,,adult,,pizza,fit,,italian,,,,pop,,,live
+108,,adult,,,fit,,italian,,hamburger,,pop,country,no music,
+109,,adult,,pizza,,,,,,rock,,,,
+110,,adult,,,fit,,italian,,,rock,pop,,,live
+111,,adult,,pizza,,,italian,,,rock,,,,
+112,,adult,,pizza,,japanese,,,,rock,pop,country,no music,live
+113,,adult,,pizza,fit,,italian,,,,pop,country,,
+114,,adult,,,,,,,hamburger,,pop,country,no music,
+115,,adult,,,fit,japanese,,,hamburger,,,country,no music,
+116,,adult,,,,,italian,,,rock,pop,country,no music,
+117,,adult,,,,,italian,,hamburger,,pop,country,,
+118,,adult,,pizza,,,,,hamburger,rock,pop,,,
+119,,adult,,pizza,fit,,italian,,hamburger,rock,,,no music,live
+120,,adult,,pizza,,,italian,,hamburger,,pop,country,no music,live
+121,,adult,,pizza,fit,japanese,italian,,,rock,,,,live
+122,,adult,,pizza,fit,japanese,,,,,,,no music,live
+123,,adult,,pizza,fit,,,,,rock,pop,,no music,
+124,,adult,,pizza,,japanese,italian,,,,pop,,,
+125,,adult,,pizza,fit,japanese,italian,,hamburger,rock,,country,no music,live
+126,,adult,,,fit,japanese,italian,,,,,,no music,
+127,,adult,,pizza,,japanese,italian,,,rock,,country,,live
+128,,adult,,,fit,,italian,,hamburger,,pop,,,live
+129,,adult,,pizza,fit,,italian,,,,,country,,live
+130,,adult,,,,japanese,italian,,hamburger,,,country,,live
+131,,adult,,pizza,,,italian,,,rock,pop,,,
+132,,adult,,pizza,fit,japanese,italian,,,rock,,country,no music,
+133,,adult,,,,,italian,,hamburger,rock,pop,country,,
+134,,adult,,,,,,,hamburger,,,country,,live
+135,,adult,,pizza,,japanese,,,,,pop,country,no music,live
+136,,adult,,,,,,,hamburger,,pop,,,
+137,,adult,,pizza,,,,,,rock,,,no music,live
+138,,adult,,pizza,,japanese,,,hamburger,,,,,
+139,,adult,,,,japanese,italian,,hamburger,,,country,,live
+140,,adult,,pizza,fit,japanese,italian,,hamburger,,,country,no music,live
+141,,adult,,pizza,fit,,,,,,pop,,,live
+142,,adult,,pizza,,,,,,rock,,,,
+143,,adult,,,fit,japanese,,,,rock,,country,,live
+144,,adult,,pizza,fit,japanese,italian,,,rock,pop,,,live
+145,,adult,,,,,italian,,hamburger,rock,,country,no music,live
+146,,adult,,,,japanese,italian,,hamburger,rock,,,no music,live
+147,,adult,,pizza,,,,,,,pop,country,,
+148,,adult,,,,japanese,italian,,,,,,no music,live
