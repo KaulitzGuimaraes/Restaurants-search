@@ -1,0 +1,330 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13
+0,,,elder,,fit,,,,hamburger,,pop,,,live
+1,,,elder,pizza,,,italian,,hamburger,rock,,country,,
+2,,,elder,,fit,,italian,fast food,,,pop,country,,
+3,,,elder,,,,,,hamburger,rock,pop,,no music,
+4,,,elder,,fit,,italian,,,,pop,country,no music,
+5,,,elder,pizza,,,italian,fast food,,,,,no music,live
+6,,,elder,,,japanese,italian,fast food,,,pop,country,,live
+7,,,elder,,,japanese,,,,,,,,live
+8,,,elder,,,japanese,italian,fast food,hamburger,rock,pop,country,,live
+9,,,elder,,fit,japanese,,fast food,hamburger,rock,pop,country,no music,live
+10,,,elder,pizza,,japanese,,fast food,hamburger,,,,no music,
+11,,,elder,pizza,fit,japanese,italian,,,rock,pop,country,no music,
+12,,,elder,pizza,,,italian,fast food,hamburger,rock,pop,country,,live
+13,,,elder,,fit,japanese,italian,fast food,,,pop,,no music,
+14,,,elder,,,,,,,rock,,country,no music,live
+15,,,elder,pizza,fit,japanese,,,hamburger,rock,pop,country,no music,live
+16,,,elder,pizza,fit,japanese,,,,rock,pop,,no music,live
+17,,,elder,,fit,japanese,italian,,hamburger,,pop,country,no music,
+18,,,elder,pizza,,japanese,,,hamburger,rock,pop,,,
+19,,,elder,pizza,,,italian,,hamburger,,pop,,,live
+20,,,elder,,,japanese,,fast food,,rock,,,,
+21,,,elder,pizza,fit,japanese,,fast food,,rock,pop,country,,
+22,,,elder,,fit,japanese,italian,fast food,,rock,,,,live
+23,,,elder,pizza,fit,,italian,,,rock,,country,no music,live
+24,,,elder,,,,,fast food,,rock,pop,,,
+25,,,elder,pizza,fit,,italian,,hamburger,,,,,live
+26,,,elder,,,japanese,italian,,,,,country,no music,
+27,,,elder,pizza,fit,japanese,italian,,hamburger,,pop,,no music,
+28,,,elder,,fit,japanese,italian,fast food,hamburger,,,country,,live
+29,,,elder,,,japanese,italian,fast food,,rock,,,no music,live
+30,,,elder,,fit,japanese,italian,,,rock,pop,,no music,live
+31,,,elder,,,japanese,italian,fast food,,,pop,country,no music,live
+32,,,elder,,fit,japanese,,,hamburger,,pop,,,live
+33,,,elder,pizza,fit,japanese,,,hamburger,,pop,,,
+34,,,elder,pizza,fit,,,fast food,hamburger,,pop,,,live
+35,,,elder,pizza,fit,,italian,fast food,,,pop,,,live
+36,,,elder,pizza,fit,japanese,,fast food,,rock,pop,,no music,live
+37,,,elder,,,japanese,italian,,,rock,,country,,
+38,,,elder,pizza,fit,japanese,italian,fast food,hamburger,,,,,
+39,,,elder,,fit,japanese,italian,,,,,country,no music,live
+40,,,elder,pizza,,japanese,,,,rock,pop,,no music,live
+41,,,elder,pizza,fit,japanese,,,,rock,,country,,
+42,,,elder,pizza,fit,japanese,italian,,hamburger,,pop,country,,live
+43,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,country,,live
+44,,,elder,,fit,japanese,,,,rock,,country,no music,
+45,,,elder,pizza,fit,japanese,italian,fast food,,rock,,,,live
+46,,,elder,,fit,,italian,fast food,,,pop,country,,
+47,,,elder,,fit,japanese,,fast food,hamburger,,,country,no music,
+48,,,elder,pizza,fit,japanese,,fast food,,,,,,live
+49,,,elder,,fit,japanese,italian,,,,pop,country,,live
+50,,,elder,pizza,fit,,,,,rock,,,no music,live
+51,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,country,no music,live
+52,,,elder,,fit,,italian,fast food,hamburger,rock,,,no music,live
+53,,,elder,,fit,japanese,italian,,,,,,,live
+54,,,elder,pizza,,,italian,fast food,hamburger,,pop,,,
+55,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,country,,
+56,,,elder,pizza,,japanese,,fast food,,,,,no music,
+57,,,elder,,fit,japanese,,,hamburger,,,country,,
+58,,,elder,pizza,fit,,italian,,hamburger,,pop,country,,
+59,,,elder,pizza,,japanese,italian,,hamburger,rock,pop,,,live
+60,,,elder,pizza,fit,,,fast food,hamburger,rock,pop,,,
+61,,,elder,pizza,,,,,hamburger,,,country,no music,live
+62,,,elder,,fit,,italian,fast food,hamburger,rock,,,,
+63,,,elder,,,,,fast food,,rock,,country,,live
+64,,,elder,,fit,,,,hamburger,rock,pop,,no music,live
+65,,,elder,,,,,,hamburger,rock,,,,
+66,,,elder,pizza,fit,,,fast food,,rock,pop,,no music,live
+67,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,,no music,
+68,,,elder,,,japanese,italian,fast food,,rock,,,,live
+69,,,elder,pizza,fit,japanese,italian,fast food,,,pop,country,,
+70,,,elder,pizza,,,,fast food,hamburger,rock,,,no music,
+71,,,elder,pizza,fit,japanese,,,hamburger,,pop,country,no music,
+72,,,elder,pizza,,japanese,,fast food,,rock,,country,no music,live
+73,,,elder,pizza,,,italian,fast food,hamburger,rock,,country,,
+74,,,elder,,fit,,italian,,,,,country,,
+75,,,elder,,,japanese,,fast food,,rock,,country,,
+76,,,elder,,fit,,italian,fast food,,,,country,,
+77,,,elder,,,,italian,,,rock,pop,country,no music,
+78,,,elder,pizza,,japanese,italian,fast food,,rock,pop,,,
+79,,,elder,,fit,japanese,italian,fast food,,,,country,,live
+80,,,elder,,fit,,italian,fast food,,rock,pop,,,
+81,,,elder,pizza,,japanese,italian,fast food,,rock,,country,no music,live
+82,,,elder,,,,italian,fast food,hamburger,rock,pop,country,no music,live
+83,,,elder,pizza,fit,,,,,,pop,country,,live
+84,,,elder,pizza,,,,,,rock,,,no music,live
+85,,,elder,pizza,,,italian,fast food,hamburger,rock,pop,country,,
+86,,,elder,pizza,fit,,italian,fast food,,,,,no music,live
+87,,,elder,pizza,fit,,,fast food,hamburger,,pop,,no music,live
+88,,,elder,,fit,japanese,,,hamburger,rock,,country,,
+89,,,elder,,fit,,,fast food,,,,country,,
+90,,,elder,pizza,,,italian,,hamburger,rock,,country,,
+91,,,elder,pizza,fit,,,fast food,hamburger,,,country,,
+92,,,elder,pizza,,,italian,fast food,hamburger,,pop,,,
+93,,,elder,pizza,,,,fast food,hamburger,rock,,country,,live
+94,,,elder,pizza,,japanese,,,hamburger,,pop,,no music,
+95,,,elder,pizza,,,,fast food,hamburger,rock,pop,country,,
+96,,,elder,pizza,fit,,italian,fast food,,rock,,,,
+97,,,elder,,fit,japanese,,,hamburger,rock,,country,,
+98,,,elder,,,japanese,italian,fast food,,,pop,,no music,
+99,,,elder,,,japanese,,fast food,,rock,,country,,live
+100,,,elder,,,japanese,italian,fast food,hamburger,rock,,,no music,live
+101,,,elder,pizza,,japanese,,,hamburger,rock,pop,,no music,
+102,,,elder,pizza,fit,,italian,fast food,hamburger,,,country,,
+103,,,elder,pizza,,japanese,,fast food,hamburger,rock,,,no music,
+104,,,elder,pizza,fit,japanese,,,hamburger,rock,,country,no music,live
+105,,,elder,,fit,japanese,italian,fast food,hamburger,,,country,,live
+106,,,elder,,,japanese,,fast food,,rock,,country,,live
+107,,,elder,,,,italian,,hamburger,rock,pop,,no music,live
+108,,,elder,pizza,,japanese,,fast food,hamburger,,,country,no music,live
+109,,,elder,pizza,fit,,italian,fast food,hamburger,,pop,country,,
+110,,,elder,pizza,,japanese,italian,,,rock,pop,,,
+111,,,elder,,fit,,,fast food,hamburger,rock,pop,country,,
+112,,,elder,,fit,,,,hamburger,rock,pop,,,
+113,,,elder,,,japanese,italian,,,,,country,no music,live
+114,,,elder,,,japanese,italian,fast food,hamburger,,,,no music,
+115,,,elder,pizza,fit,,,fast food,,,,,no music,
+116,,,elder,,,japanese,,fast food,hamburger,rock,,,no music,
+117,,,elder,pizza,fit,,italian,,hamburger,rock,,country,,live
+118,,,elder,,,japanese,,fast food,hamburger,rock,,country,,live
+119,,,elder,pizza,,japanese,italian,fast food,hamburger,rock,pop,,no music,live
+120,,,elder,,fit,,,,hamburger,rock,,,,
+121,,,elder,pizza,,japanese,,,,,,,,live
+122,,,elder,pizza,,japanese,,,hamburger,rock,pop,country,no music,live
+123,,,elder,,fit,,italian,,,,pop,,,
+124,,,elder,,fit,japanese,,fast food,hamburger,rock,,,,live
+125,,,elder,pizza,,japanese,italian,,,rock,,country,no music,
+126,,,elder,pizza,fit,,,,hamburger,rock,,country,,
+127,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,,,
+128,,,elder,pizza,fit,,italian,fast food,,rock,,,no music,live
+129,,,elder,,fit,,italian,fast food,hamburger,,,,,live
+130,,,elder,,,,italian,,hamburger,,pop,,,
+131,,,elder,pizza,,japanese,italian,,,,,,no music,
+132,,,elder,,fit,,italian,fast food,,rock,,,,
+133,,,elder,pizza,,,,,,,pop,,,live
+134,,,elder,pizza,,japanese,,,,,pop,country,,
+135,,,elder,,fit,japanese,italian,,hamburger,rock,,,,live
+136,,,elder,pizza,,japanese,,fast food,,,,country,,live
+137,,,elder,pizza,,japanese,italian,fast food,hamburger,rock,pop,,,
+138,,,elder,pizza,,japanese,italian,fast food,,rock,,country,,
+139,,,elder,,,,,,hamburger,rock,,country,,live
+140,,,elder,pizza,fit,japanese,italian,,,,pop,,,live
+141,,,elder,,,japanese,italian,,hamburger,,pop,country,no music,live
+142,,,elder,pizza,fit,,,fast food,,,pop,country,no music,live
+143,,,elder,pizza,fit,,,,hamburger,rock,,country,no music,live
+144,,,elder,pizza,,,italian,,,rock,,country,no music,live
+145,,,elder,,,,,fast food,,rock,pop,country,no music,live
+146,,,elder,pizza,fit,,,fast food,hamburger,,,,no music,live
+147,,,elder,,,,,,,rock,pop,country,,live
+148,,,elder,,fit,japanese,,,hamburger,,pop,,no music,live
+149,,,elder,,,japanese,italian,,,,pop,,no music,live
+150,,,elder,,fit,,,fast food,hamburger,,pop,,,live
+151,,,elder,,fit,japanese,italian,,,rock,pop,country,,
+152,,,elder,,fit,,italian,,hamburger,rock,,country,,
+153,,,elder,pizza,fit,,italian,fast food,hamburger,,,,,
+154,,,elder,,fit,,italian,fast food,,rock,pop,country,no music,
+155,,,elder,pizza,,japanese,italian,fast food,,rock,,country,,
+156,,,elder,pizza,,japanese,italian,,hamburger,,,country,no music,live
+157,,,elder,pizza,fit,japanese,italian,fast food,,,pop,,no music,
+158,,,elder,,,,,,,rock,,country,,live
+159,,,elder,,,japanese,,,,rock,pop,country,,
+160,,,elder,,,japanese,,fast food,,rock,pop,country,no music,
+161,,,elder,pizza,fit,japanese,italian,fast food,hamburger,,,,,live
+162,,,elder,,fit,japanese,,,hamburger,rock,pop,,,live
+163,,,elder,pizza,fit,,,fast food,,,,,no music,live
+164,,,elder,,,japanese,italian,fast food,,rock,pop,,,live
+165,,,elder,pizza,,japanese,,fast food,,rock,pop,country,,live
+166,,,elder,,,,italian,fast food,hamburger,,,country,no music,live
+167,,,elder,,fit,,italian,,,rock,,country,no music,
+168,,,elder,pizza,,,italian,fast food,,,pop,country,,
+169,,,elder,,,japanese,,fast food,hamburger,,,,no music,live
+170,,,elder,,fit,,,,hamburger,rock,pop,,no music,live
+171,,,elder,pizza,fit,japanese,,,,rock,,,no music,live
+172,,,elder,,fit,,italian,,,,pop,country,,
+173,,,elder,pizza,fit,,italian,fast food,,rock,,,,live
+174,,,elder,pizza,fit,,,fast food,,,pop,country,no music,
+175,,,elder,,,,italian,,,rock,,country,no music,live
+176,,,elder,,,japanese,italian,fast food,,,pop,country,,live
+177,,,elder,,fit,japanese,,,hamburger,rock,,country,no music,live
+178,,,elder,,fit,japanese,italian,fast food,,,,,,live
+179,,,elder,pizza,fit,japanese,italian,fast food,hamburger,rock,pop,country,no music,live
+180,,,elder,,,,,,,,,country,,live
+181,,,elder,,,japanese,,,hamburger,,,country,no music,live
+182,,,elder,pizza,,,italian,fast food,,,,,no music,
+183,,,elder,,,japanese,italian,fast food,,,,country,no music,
+184,,,elder,pizza,,japanese,italian,fast food,,,,,no music,live
+185,,,elder,pizza,,japanese,,fast food,hamburger,,,country,no music,live
+186,,,elder,,,japanese,,fast food,hamburger,,pop,country,no music,live
+187,,,elder,pizza,fit,,italian,,,,,country,,live
+188,,,elder,pizza,fit,,italian,fast food,hamburger,rock,,country,no music,
+189,,,elder,pizza,,,italian,fast food,,rock,pop,,no music,live
+190,,,elder,,fit,,italian,fast food,,,,country,no music,
+191,,,elder,pizza,fit,,italian,fast food,,,,country,no music,live
+192,,,elder,pizza,,,,fast food,hamburger,rock,pop,country,,live
+193,,,elder,pizza,,,,fast food,,,,,no music,live
+194,,,elder,,,,italian,fast food,,rock,pop,country,,live
+195,,,elder,pizza,fit,japanese,,fast food,hamburger,rock,pop,,no music,
+196,,,elder,,,,,fast food,,rock,,,,
+197,,,elder,pizza,fit,japanese,,,,rock,,,no music,live
+198,,,elder,,fit,,,,,,,country,no music,live
+199,,,elder,pizza,fit,japanese,italian,fast food,,rock,,,,
+200,,,elder,,,japanese,,,,rock,pop,country,,
+201,,,elder,,fit,japanese,,fast food,hamburger,rock,pop,,,live
+202,,,elder,,fit,,italian,,hamburger,,pop,,,live
+203,,,elder,,,japanese,italian,,hamburger,rock,pop,country,,
+204,,,elder,,fit,,italian,fast food,hamburger,rock,,country,no music,live
+205,,,elder,pizza,,japanese,italian,,hamburger,rock,pop,country,no music,
+206,,,elder,,fit,japanese,italian,fast food,hamburger,,pop,,,live
+207,,,elder,pizza,fit,japanese,,,,,,country,,live
+208,,,elder,pizza,,,,fast food,,rock,,,no music,
+209,,,elder,pizza,fit,japanese,,,,rock,pop,,,
+210,,,elder,,fit,,,fast food,hamburger,,pop,,,
+211,,,elder,,,japanese,,fast food,hamburger,rock,,,no music,live
+212,,,elder,pizza,,japanese,,fast food,,rock,pop,,,
+213,,,elder,pizza,fit,japanese,italian,,hamburger,,,country,,
+214,,,elder,,,japanese,italian,fast food,,,pop,,,
+215,,,elder,,,japanese,italian,,,,,country,no music,
+216,,,elder,,,japanese,,fast food,hamburger,,,,,
+217,,,elder,pizza,fit,japanese,,fast food,,rock,,,no music,
+218,,,elder,pizza,,japanese,,fast food,hamburger,,pop,,,live
+219,,,elder,pizza,,japanese,italian,,,,pop,,no music,
+220,,,elder,,,,,fast food,hamburger,rock,,country,,live
+221,,,elder,pizza,,,,,,,,,,live
+222,,,elder,pizza,,japanese,,fast food,,,pop,,no music,
+223,,,elder,pizza,,,italian,fast food,hamburger,,,country,,
+224,,,elder,pizza,,japanese,italian,,,rock,pop,country,,live
+225,,,elder,pizza,,,italian,fast food,,rock,pop,,no music,
+226,,,elder,pizza,fit,,,,hamburger,rock,pop,country,no music,
+227,,,elder,,fit,,italian,,hamburger,,pop,,,live
+228,,,elder,pizza,fit,,,,,rock,pop,country,,live
+229,,,elder,pizza,,,,fast food,,,,country,,live
+230,,,elder,,fit,,italian,,hamburger,,,country,no music,
+231,,,elder,pizza,,,italian,fast food,,,,,no music,live
+232,,,elder,,,,italian,,,,pop,country,no music,
+233,,,elder,pizza,,japanese,,,,,,country,,
+234,,,elder,,,,italian,fast food,hamburger,rock,,country,no music,
+235,,,elder,,fit,,italian,,hamburger,,,,,
+236,,,elder,,,,,fast food,,rock,pop,country,,
+237,,,elder,pizza,fit,,italian,fast food,,,,country,no music,live
+238,,,elder,,,,italian,fast food,,,,country,no music,live
+239,,,elder,,,,,fast food,,rock,,country,,live
+240,,,elder,pizza,,,,,,,,,,
+241,,,elder,,,,italian,fast food,,rock,pop,,no music,
+242,,,elder,pizza,fit,,,fast food,hamburger,,pop,country,,
+243,,,elder,,,japanese,italian,,,,pop,,no music,
+244,,,elder,pizza,fit,,italian,,,rock,,,,
+245,,,elder,,fit,japanese,italian,fast food,hamburger,,pop,,no music,live
+246,,,elder,,,japanese,,,hamburger,rock,,,no music,
+247,,,elder,pizza,,,italian,,hamburger,,,,,live
+248,,,elder,,fit,japanese,italian,fast food,,rock,,country,no music,live
+249,,,elder,,,japanese,italian,fast food,hamburger,rock,,,,
+250,,,elder,pizza,,japanese,,,hamburger,,pop,,no music,live
+251,,,elder,,fit,,italian,,hamburger,,,country,,live
+252,,,elder,,fit,japanese,,,hamburger,,pop,,,live
+253,,,elder,pizza,,,italian,fast food,,rock,pop,country,no music,
+254,,,elder,,,japanese,,fast food,hamburger,rock,pop,country,,
+255,,,elder,pizza,,,italian,fast food,hamburger,,pop,,,live
+256,,,elder,pizza,,japanese,italian,,hamburger,rock,pop,,,
+257,,,elder,,fit,,,fast food,,rock,pop,,no music,
+258,,,elder,,fit,,,,,,,country,,live
+259,,,elder,,fit,japanese,,,,rock,pop,,no music,live
+260,,,elder,pizza,,,,fast food,hamburger,,,country,no music,
+261,,,elder,pizza,fit,,,fast food,,,pop,,,live
+262,,,elder,pizza,fit,japanese,,fast food,hamburger,,pop,country,no music,
+263,,,elder,,,,italian,fast food,,,,,,
+264,,,elder,,,,italian,fast food,hamburger,rock,pop,,,
+265,,,elder,,fit,japanese,italian,fast food,hamburger,rock,,country,,live
+266,,,elder,pizza,,japanese,italian,,,rock,pop,,,
+267,,,elder,pizza,fit,,,fast food,,rock,,country,,live
+268,,,elder,,,japanese,italian,fast food,,rock,,,,
+269,,,elder,,fit,,,fast food,hamburger,,,country,,
+270,,,elder,pizza,,japanese,italian,,,rock,pop,,,
+271,,,elder,pizza,fit,japanese,italian,,,rock,pop,,no music,
+272,,,elder,pizza,,japanese,,fast food,,,,country,,live
+273,,,elder,,fit,,italian,,,rock,pop,,no music,
+274,,,elder,,,japanese,italian,fast food,hamburger,rock,pop,country,no music,
+275,,,elder,,,japanese,,,,,pop,,no music,
+276,,,elder,pizza,fit,japanese,,,hamburger,,pop,,no music,live
+277,,,elder,,,,,fast food,,,,country,no music,live
+278,,,elder,,,japanese,italian,fast food,hamburger,,pop,,no music,
+279,,,elder,pizza,fit,,italian,,hamburger,rock,pop,,,
+280,,,elder,pizza,,,italian,,,,,,,live
+281,,,elder,pizza,,japanese,,,hamburger,,,,,
+282,,,elder,pizza,,japanese,italian,fast food,,,,,,live
+283,,,elder,,,,,,hamburger,rock,,,,
+284,,,elder,pizza,fit,,italian,,hamburger,rock,,country,,live
+285,,,elder,pizza,,,,fast food,,rock,pop,,no music,
+286,,,elder,,fit,japanese,,fast food,hamburger,rock,,country,,
+287,,,elder,pizza,fit,,italian,,,rock,,country,,
+288,,,elder,,fit,japanese,italian,,hamburger,,,country,no music,live
+289,,,elder,,fit,japanese,,,hamburger,rock,,,,
+290,,,elder,,fit,,,,hamburger,,,,,
+291,,,elder,,fit,japanese,italian,fast food,,rock,,country,,
+292,,,elder,,fit,japanese,,fast food,,rock,,country,,
+293,,,elder,,,,,fast food,,,pop,,,live
+294,,,elder,,fit,,italian,fast food,,,,country,,
+295,,,elder,pizza,fit,japanese,,,,,,country,no music,
+296,,,elder,pizza,fit,japanese,,,,rock,,country,no music,
+297,,,elder,,,,italian,,,rock,,,no music,live
+298,,,elder,pizza,fit,japanese,,fast food,hamburger,rock,pop,,no music,live
+299,,,elder,,,,italian,,hamburger,rock,,,no music,
+300,,,elder,pizza,fit,japanese,italian,,,rock,pop,,no music,
+301,,,elder,pizza,,,italian,fast food,,rock,,,,live
+302,,,elder,pizza,,,,fast food,hamburger,,,country,no music,live
+303,,,elder,,fit,japanese,,,,,,,no music,
+304,,,elder,pizza,fit,,,fast food,,,pop,country,no music,
+305,,,elder,,,,,,,,pop,country,,live
+306,,,elder,,,,italian,,hamburger,rock,,,,live
+307,,,elder,pizza,fit,,italian,,hamburger,,pop,country,no music,
+308,,,elder,,fit,japanese,,,hamburger,,pop,country,no music,
+309,,,elder,,fit,,italian,,hamburger,rock,pop,country,no music,live
+310,,,elder,,fit,,italian,fast food,,,,country,no music,live
+311,,,elder,pizza,fit,,,,,,pop,country,no music,live
+312,,,elder,pizza,,,italian,fast food,,rock,,country,no music,live
+313,,,elder,pizza,fit,,italian,,hamburger,rock,,country,no music,live
+314,,,elder,pizza,fit,japanese,italian,fast food,,,,country,,
+315,,,elder,,fit,,italian,fast food,,,pop,,,live
+316,,,elder,pizza,,,italian,,hamburger,,pop,country,no music,
+317,,,elder,pizza,fit,,,fast food,hamburger,,,country,,live
+318,,,elder,pizza,fit,japanese,italian,,hamburger,rock,pop,country,,live
+319,,,elder,,,,italian,,hamburger,rock,,,no music,
+320,,,elder,,fit,japanese,italian,,hamburger,,pop,,,
+321,,,elder,,,japanese,italian,,hamburger,,pop,country,,live
+322,,,elder,,,japanese,italian,fast food,,rock,pop,,no music,
+323,,,elder,,,,italian,fast food,,,,country,,live
+324,,,elder,pizza,,,italian,,hamburger,,,,,
+325,,,elder,pizza,fit,japanese,,fast food,,,,,no music,live
+326,,,elder,pizza,,japanese,,,,rock,pop,country,no music,live
+327,,,elder,pizza,,japanese,,fast food,hamburger,rock,pop,,,
+328,,,elder,pizza,,,italian,,,,,country,no music,
